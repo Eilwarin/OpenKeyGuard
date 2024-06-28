@@ -1,0 +1,26 @@
+{
+	"bmi-installation" : null,
+	"compiler-frontend-variant" : "GNU",
+	"compiler-id" : "GNU",
+	"compiler-simulate-id" : "",
+	"config" : "Debug",
+	"cxx-modules" : {},
+	"dir-cur-bld" : "/home/vaia/CLionProjects/KeyGuard/cmake-build-debug",
+	"dir-cur-src" : "/home/vaia/CLionProjects/KeyGuard",
+	"dir-top-bld" : "/home/vaia/CLionProjects/KeyGuard/cmake-build-debug",
+	"dir-top-src" : "/home/vaia/CLionProjects/KeyGuard",
+	"exports" : [],
+	"forward-modules-from-target-dirs" : [],
+	"include-dirs" : 
+	[
+		"KeyGuard_autogen/include",
+		"/usr/include/qt",
+		"/usr/include/qt/QtCore",
+		"/usr/lib/qt/mkspecs/linux-g++",
+		"/usr/include/qt/QtGui",
+		"/usr/include/qt/QtWidgets"
+	],
+	"language" : "CXX",
+	"linked-target-dirs" : [],
+	"module-dir" : "/home/vaia/CLionProjects/KeyGuard/cmake-build-debug/CMakeFiles/KeyGuard.dir"
+}

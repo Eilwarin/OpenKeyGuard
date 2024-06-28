@@ -1,0 +1,5 @@
+/home/vaia/CLionProjects/KeyGuard/cmake-build-debug/CMakeFiles/KeyGuard.dir
+/home/vaia/CLionProjects/KeyGuard/cmake-build-debug/CMakeFiles/edit_cache.dir
+/home/vaia/CLionProjects/KeyGuard/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/home/vaia/CLionProjects/KeyGuard/cmake-build-debug/CMakeFiles/KeyGuard_autogen_timestamp_deps.dir
+/home/vaia/CLionProjects/KeyGuard/cmake-build-debug/CMakeFiles/KeyGuard_autogen.dir
